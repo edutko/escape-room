@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="640" fill="none">
+
+  <!-- Rectangles -->
+  <rect x="40" y="40" width="180" height="260" rx="8" fill="none" stroke="#000000" stroke-width="2"/>
+  <rect x="260" y="40" width="180" height="260" rx="8" fill="none" stroke="#000000" stroke-width="2"/>
+  <rect x="480" y="40" width="180" height="260" rx="8" fill="none" stroke="#000000" stroke-width="2"/>
+  <rect x="700" y="40" width="180" height="260" rx="8" fill="none" stroke="#000000" stroke-width="2"/>
+  <rect x="40" y="340" width="180" height="260" rx="8" fill="none" stroke="#000000" stroke-width="2"/>
+  <rect x="260" y="340" width="180" height="260" rx="8" fill="none" stroke="#000000" stroke-width="2"/>
+  <rect x="480" y="340" width="180" height="260" rx="8" fill="none" stroke="#000000" stroke-width="2"/>
+  <rect x="700" y="340" width="180" height="260" rx="8" fill="none" stroke="#000000" stroke-width="2"/>
+
+  <!-- Empty circles -->
+  <circle cx="90.0" cy="90.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="170.0" cy="90.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="90.0" cy="170.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="90.0" cy="250.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="170.0" cy="250.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="310.0" cy="90.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="390.0" cy="90.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="310.0" cy="170.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="310.0" cy="250.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="390.0" cy="250.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="530.0" cy="90.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="530.0" cy="170.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="610.0" cy="170.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="530.0" cy="250.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="610.0" cy="250.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="750.0" cy="90.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="830.0" cy="90.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="830.0" cy="170.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="750.0" cy="250.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="830.0" cy="250.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="90.0" cy="390.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="170.0" cy="390.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="90.0" cy="470.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="170.0" cy="470.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="90.0" cy="550.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="310.0" cy="390.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="390.0" cy="390.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="310.0" cy="470.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="390.0" cy="470.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="310.0" cy="550.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="610.0" cy="390.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="530.0" cy="470.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="610.0" cy="470.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="530.0" cy="550.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="610.0" cy="550.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="750.0" cy="390.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="830.0" cy="390.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="750.0" cy="470.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="830.0" cy="470.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="750.0" cy="550.0" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+
+  <!-- Wires -->
+  <path d="M 390.0,170.0 C 390.0,148.0 610.0,68.0 610.0,90.0" fill="none" stroke="#999999" stroke-width="15.0" stroke-opacity="1.0" stroke-linecap="round"/>
+  <path d="M 390.0,550.0 C 390.0,512.0 170.0,132.0 170.0,170.0" fill="none" stroke="#999999" stroke-width="15.0" stroke-opacity="1.0" stroke-linecap="round"/>
+  <path d="M 530.0,390.0 C 530.0,360.0 830.0,520.0 830.0,550.0" fill="none" stroke="#999999" stroke-width="15.0" stroke-opacity="1.0" stroke-linecap="round"/>
+
+  <!-- Filled circles -->
+  <circle cx="390.0" cy="170.0" r="30" fill="#999999" stroke="#999999" stroke-width="2" opacity="1.0"/>
+  <circle cx="610.0" cy="90.0" r="30" fill="#999999" stroke="#999999" stroke-width="2" opacity="1.0"/>
+  <circle cx="390.0" cy="550.0" r="30" fill="#999999" stroke="#999999" stroke-width="2" opacity="1.0"/>
+  <circle cx="170.0" cy="170.0" r="30" fill="#999999" stroke="#999999" stroke-width="2" opacity="1.0"/>
+  <circle cx="530.0" cy="390.0" r="30" fill="#999999" stroke="#999999" stroke-width="2" opacity="1.0"/>
+  <circle cx="830.0" cy="550.0" r="30" fill="#999999" stroke="#999999" stroke-width="2" opacity="1.0"/>
+  <circle cx="170.0" cy="550.0" r="30" fill="#999999" stroke="#999999" stroke-width="2" opacity="1.0"/>
+  <circle cx="750.0" cy="170.0" r="30" fill="#999999" stroke="#999999" stroke-width="2" opacity="1.0"/>
+
+</svg>

@@ -1,0 +1,23 @@
+{
+  "master_password": "hunter2",
+
+  "date_of_birth": {
+    "question": "Enter date of birth (MM/DD/YYYY):",
+    "answer": "01/01/2000"
+  },
+  "pet_name": {
+    "question": "Enter favorite pet's name:",
+    "answer": "Whiskers"
+  },
+  "maiden_name": {
+    "question": "Enter mother's maiden name:",
+    "answer": "Smith"
+  },
+
+  "expire_seconds": 10,
+  "congrats_message": "ACCESS GRANTED",
+  "congrats_submessage": "Congratulations!",
+
+  "windowed_width": 1024,
+  "windowed_height": 768
+}
